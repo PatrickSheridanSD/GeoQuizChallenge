@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_ireland">Dublin is the capital city of Ireland?</string>
+    <string name="question_spain">Majorca is an Island off the south of Spain?</string>
+    <string name="question_oceans">The Pacific ocean is larger than the Atlantic ocean?</string>
+    <string name="question_mideast">The Suez canal connects the Red sea and the Indian Ocean?</string>
+    <string name="question_africa">The source of the Nile river is in Egypt?</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas?</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake?</string>
+    <string name="noQ">Too Far</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat</string>
+    <string name="too_far">This is the last question</string>
+    <string name="no_back">You cannot go back</string>
+</resources>
